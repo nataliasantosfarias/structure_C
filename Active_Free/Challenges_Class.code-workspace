@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Challenges_Class",
+			"path": "../../../.Trash/Challenges_Class"
+		},
+		{
+			"name": "Structure_C",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cmake.options.statusBarVisibility": "visible"
+	}
+}
